@@ -2,7 +2,7 @@
   level meter block
 */
 
-//% color=#006464 weight=20 icon="\uf3fd" block="levelMeter"
+//% color=#006464 weight=20 icon="\u21c5" block="levelMeter"
 namespace levelmeter {
 
 	/**
